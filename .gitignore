@@ -1,4 +1,6 @@
+.DS_Store
+.vscode
 linear_search
 phone_book_search
 string_linear_search
-.DS_Store
+iteration
